@@ -89,8 +89,11 @@ Unzip the Swahili language pack to Magento 2 root folder. In this guide, we extr
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/sw_ke
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-swahili-language-pack` to `sw_ke`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Swahili pack manually, you have to access to your server
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `sw_KE.zip` into `app/i18n/mageplaza/sw_KE/sw_KE.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/sw_ke/sw_KE.csv`
+
+See this screenshot
+
+![Swahili pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
