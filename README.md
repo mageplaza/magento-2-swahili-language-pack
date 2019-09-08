@@ -4,7 +4,7 @@
 
 Read more [Magento 2 Swahili Language Pack](https://www.mageplaza.com/magento-2-swahili-language-pack.html)
 
-![Mageplaza Swahili language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Swahili language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
